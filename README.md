@@ -32,7 +32,7 @@
 ### ☁️ [Nimbus MCP](https://github.com/harmehak0173/NimbusMCP)
 **Tech:** Python · httpx · OpenWeather API · OpenAI · Hugging Face · Ollama · MCP  
 
-### 🐜 [Swarm Intelligence for Search & Rescue](https://github.com/harmehak0173/Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations)
+### 🐜 [Swarm Intelligence in Autonomous Agents for Search & Rescue Operations](https://github.com/harmehak0173/Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations)
 **Tech:** Python · Pygame · ACO · Matplotlib  
 
 ### 💬 [WhatsApp Chat Analyzer](https://github.com/harmehak0173/Whatsapp-Chat-Analysis)
