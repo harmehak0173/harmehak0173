@@ -137,7 +137,7 @@
 - 🌩️ **Migrating to the AWS Cloud** - *Amazon Web Services (AWS), Sep 2025*  
 - 🤖 **Fundamentals of AI Agents Using RAG and LangChain** - *IBM, Aug 2025*  
 - 🧠 **Machine Learning Specialization** - *University of Washington, Nov 2020*  
-- 🔍 **How Google Does Machine Learning** - *Google, Nov 2020*  
+- 🔍 **Building Conversational Experiences with Dialogflow** - *Google, Jun 2020*  
 
 ---
 
@@ -146,7 +146,7 @@
 - Developing **Mindcare Assistant** - integrating **LLMs**, **NLP**, and emotion detection for mental health awareness.  
 - Building scalable AI systems as an **AI / ML Engineer**.  
 - Designing modular software backends using **FastAPI**, **Flask**, and **Python**.  
-- Exploring **Agentic AI**, **LangChain**, **MCP**, and **Ollama**.  
+- Exploring **Agentic AI**, **LangChain**, and **MCP**.  
 - Researching **Human-Centered AI** and ethics in conversational systems.  
 - Continuous learning via **LLM fine-tuning**, **RAG**, and **algorithmic problem-solving**.
 
