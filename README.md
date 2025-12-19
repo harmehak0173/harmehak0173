@@ -29,6 +29,9 @@
 ### 🧠 Mindcare Assistant
 **Tech:** Python · Streamlit · Hugging Face · LLMs · NLP  
 
+### 🛡️ [AI-Powered Incident Management System](https://github.com/harmehak0173/AI-Powered-Incident-Management-Assistant)
+**Tech:** Python · FastAPI · Streamlit · RAG · Vector Embeddings · Pydantic · NumPy
+
 ### ☁️ [Nimbus MCP](https://github.com/harmehak0173/NimbusMCP)
 **Tech:** Python · httpx · OpenWeather API · OpenAI · Hugging Face · Ollama · MCP  
 
