@@ -41,9 +41,6 @@
 ### 💬 [WhatsApp Chat Analyzer](https://github.com/harmehak0173/Whatsapp-Chat-Analysis)
 **Tech:** Python · pandas · wordcloud · Streamlit  
 
-### ✋ [Hand Gesture to Speech Conversion](https://github.com/harmehak0173/Hand-Gesture-to-Speech-Conversion-System)
-**Tech:** Python · OpenCV · TensorFlow · Keras · Mediapipe · gTTS · Pygame  
-
 ### 🤚 [Hand Gesture Recognition System](https://github.com/harmehak0173/Hand-Recognition-System)
 **Tech:** Python · TensorFlow · Keras · NumPy · scikit-learn · Matplotlib  
 
