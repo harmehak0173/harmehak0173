@@ -32,7 +32,10 @@
 ### 🛡️ [AI-Powered Incident Management System](https://github.com/harmehak0173/AI-Powered-Incident-Management-Assistant)
 **Tech:** Python · FastAPI · Streamlit · RAG · Vector Embeddings · Pydantic · NumPy
 
-### ☁️ [Nimbus MCP](https://github.com/harmehak0173/NimbusMCP)
+### 🛡️ [Smart Research Agent](https://github.com/harmehak0173/smart-research-agent)
+**Tech:** Python · OpenAI GPT · LangChain · DuckDuckGo · Web Scraping · Pydantic
+
+### ☁️ [Nimbus Weather Assistant](https://github.com/harmehak0173/NimbusMCP)
 **Tech:** Python · httpx · OpenWeather API · OpenAI · Hugging Face · Ollama · MCP  
 
 ### 🐜 [Swarm Intelligence in Autonomous Agents for Search & Rescue Operations](https://github.com/harmehak0173/Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations)
