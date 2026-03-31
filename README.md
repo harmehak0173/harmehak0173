@@ -45,8 +45,8 @@
 
 ## 📝 Publications
 
-- *"Human Computer Interaction: Technologies and Challenges"* — JETIR, 2023
-- *"Aristocratic Trends of Cyber Attacks: Ukraine Case Study"* — Springer ICDSC, 2022
+- *"Human Computer Interaction: Technologies and Challenges"* - JETIR, 2023
+- *"Aristocratic Trends of Cyber Attacks: Ukraine Case Study"* - Springer ICDSC, 2022
 
 ---
 
