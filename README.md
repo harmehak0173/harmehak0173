@@ -18,51 +18,13 @@
 
 ---
 
-## 🧩 Currently Building
-🚧 **Mindcare Assistant** - AI-powered platform for emotion and mental health detection integrating **LLMs** and free global helpline data for conversational, human-centered support.  
-> *In development. Expect public release soon.*
-
----
-
-## 💼 Experience
-
-### AI Developer – Alignerr | Waterloo, Canada *(Sep 2025 – Present)*
-- Built and deployed multimodal LLM-powered agents using **MCP** that automated enterprise workflows, improving response reliability and reducing latency across customer-facing processes
-- Designed custom tools, evaluators, and agentic orchestration pipelines with structured output handling, fallbacks, and reasoning improvements, reducing hallucinations by **30%**
-- Debugged and optimized end-to-end AI pipelines, profiling model behavior and aligning deployments with production readiness standards
-
-### AI Training & Coding Expert – Outlier AI | Waterloo, Canada *(Apr 2025 – Aug 2025)*
-- Designed, reviewed, and refined programming-focused datasets that strengthened reasoning, debugging, and code generation capabilities of LLMs, improving evaluation metrics by **80%**
-- Built automated **ETL pipelines** that validated and transformed large datasets, reducing manual workload by **50%**
-- Performed structured model evaluation across reasoning categories, identifying failure patterns and providing insights to improve model stability and accuracy
-
-### Machine Learning Engineer – CDAC | Mohali, India *(Jan 2023 – Jul 2023)*
-- Developed text-processing and data pre-processing pipelines for large-scale datasets, enabling more accurate downstream classification and retrieval tasks
-- Implemented reproducible evaluation dashboards and error analysis workflows using **Pandas** and **Scikit-learn**
-- Worked with senior engineers to debug model behavior, refine preprocessing logic, and improve end-to-end system accuracy
-
-### Researcher – GNE College | Ludhiana, India *(Jul 2022 – Dec 2022)*
-- Researched cyber-attack patterns and developed ML-based threat detection models, presenting findings at an **international Springer conference**
-- Published **HCI + ML research** in JETIR, proposing user-centered ML design methodologies
-
----
-
 ## 🚀 Projects
-
-### 🧠 Mindcare Assistant
-**Tech:** Python · Streamlit · Hugging Face · LLMs · NLP  
 
 ### 🛡️ [AI-Powered Incident Management System](https://github.com/harmehak0173/AI-Powered-Incident-Management-Assistant)
 **Tech:** Python · FastAPI · Streamlit · RAG · Vector Embeddings · Pydantic · NumPy
 
 ### 🛡️ [Smart Research Agent](https://github.com/harmehak0173/smart-research-agent)
 **Tech:** Python · OpenAI GPT · LangChain · DuckDuckGo · Web Scraping · Pydantic
-
-### 🍎 MCP Nutrition Tracker
-**Tech:** Python · Model Context Protocol · ReAct Agents · LLM-as-a-Judge · Custom Evaluators
-
-### 🖼️ AI Image Variator
-**Tech:** Python · VAE · LangChain · MCP · Multimodal Generative AI
 
 ### ☁️ [Nimbus Weather Assistant](https://github.com/harmehak0173/NimbusMCP)
 **Tech:** Python · httpx · OpenWeather API · OpenAI · Hugging Face · Ollama · MCP  
@@ -207,14 +169,6 @@
 - Exploring **Agentic AI**, **LangChain**, and **MCP**.  
 - Researching **Human-Centered AI** and ethics in conversational systems.  
 - Continuous learning via **LLM fine-tuning**, **RAG**, and **algorithmic problem-solving**.
-
----
-
-## 🏆 Leadership & Community
-
-- **Board of Directors**, Graduate Student Association, University of Waterloo *(Apr 2024 – May 2025)*
-- **Member of Student Council**, GNE College Ludhiana, Punjab Technical University *(Apr 2020 – Apr 2023)*
-- **Blood Donation Camps Organizer**, EcoSikh Ludhiana *(Jul 2020 – Dec 2023)*
 
 ---
 
