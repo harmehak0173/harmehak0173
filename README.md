@@ -45,8 +45,8 @@
 
 ## 📝 Publications
 
-- **Khangura, H.S.**, Kaur, J., Kaur, G., Singh, P. (2023). *"Human Computer Interaction: Technologies and Challenges,"* Journal of Emerging Technologies and Innovative Research, Volume 10, Issue 5, pp. f653-f661
-- **Khangura, H.S.**, Singh, K., Singh, H., Singh, D. (2022). *"Aristocratic Trends of Cyber Attacks: Visualizing Ukraine Defended Surface as a case study"*, International Conference on Data Science and Computational Intelligence (Springer), Punjab, India.
+- *"Human Computer Interaction: Technologies and Challenges"* — JETIR, 2023
+- *"Aristocratic Trends of Cyber Attacks: Ukraine Case Study"* — Springer ICDSC, 2022
 
 ---
 
@@ -158,17 +158,6 @@
 
 - **University of Waterloo, Canada** – Master of Engineering, Electrical & Computer Engineering *(2025)*
 - **GNE College Ludhiana, Punjab Technical University, India** – B.Tech, Computer Science & Engineering *(2023)*
-
----
-
-## 🌱 Current Focus
-
-- Developing **Mindcare Assistant** - integrating **LLMs**, **NLP**, and emotion detection for mental health awareness.  
-- Building scalable AI systems as an **AI / ML Engineer**.  
-- Designing modular software backends using **FastAPI**, **Flask**, and **Python**.  
-- Exploring **Agentic AI**, **LangChain**, and **MCP**.  
-- Researching **Human-Centered AI** and ethics in conversational systems.  
-- Continuous learning via **LLM fine-tuning**, **RAG**, and **algorithmic problem-solving**.
 
 ---
 
