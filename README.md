@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Master of Engineering (Electrical & Computer Engineering) @ University of Waterloo <br>
-  💡 Passionate about <b>AI for Real-World Impact</b> | 🤖 AI & Machine Learning Engineer | 💻 Software Engineer <br>
+  💡 Passionate about <b>AI for Real-World Impact</b> | 🤖 AI & Machine Learning Engineer | 💻 Software Engineer | 📈 AI Business Leadership <br>
   📍 Waterloo, Canada
 </p>
 
