@@ -152,7 +152,137 @@
 - Exploring **Agentic AI**, **LangChain**, and **MCP**.  
 - Researching **Human-Centered AI** and ethics in conversational systems.  
 - Continuous learning via **LLM fine-tuning**, **RAG**, and **algorithmic problem-solving**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Software+Engineer+%7C+Human-Centered+AI+%7C+LLMs;Building+AI+That+Cares+%E2%9C%A8">
+</p>
 
+<h1 align="center">👋 Hi, I'm <a href="https://harmehak-portfolio.netlify.app" target="_blank">Harmehak Singh Khangura</a></h1>
+
+<p align="center">
+  🎓 Master of Engineering (Computer Engineering) @ University of Waterloo <br>
+  💡 Passionate about <b>AI for Real-World Impact</b> | 🤖 AI & Machine Learning Engineer | 💻 Software Engineer <br>
+  📍 Waterloo, Canada
+</p>
+
+<p align="center">
+  <a href="mailto:harmehak0173@gmail.com"><img src="https://img.shields.io/badge/Email-harmehak0173%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/harmehak-singh-khangura"><img src="https://img.shields.io/badge/LinkedIn-Harmehak%20Singh%20Khangura-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://harmehak-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Netlify-green?style=flat-square&logo=netlify"></a>
+</p>
+
+---
+
+## 🧩 Currently Building
+🚧 **Mindcare Assistant** - AI-powered platform for emotion and mental health detection integrating **LLMs** and free global helpline data for conversational, human-centered support.  
+> *In development. Expect public release soon.*
+
+---
+
+## 🆕 Experience (New)
+
+### 🧠 AI Developer – Alignerr (2025–Present)
+- Built **multimodal LLM-powered agents using MCP** for enterprise workflows  
+- Designed **agent orchestration pipelines** with structured outputs, fallback strategies, reducing hallucinations by ~30%  
+- Debugged and optimized **end-to-end AI systems for production readiness**
+
+### 🤖 AI Training & Coding Expert – Outlier AI (2025)
+- Improved LLM reasoning & coding accuracy by **80% through dataset design and evaluation**
+- Built **ETL pipelines** for large-scale data validation and transformation  
+- Conducted structured **model evaluation and failure analysis**
+
+---
+
+## 🚀 Projects
+
+### 🧠 Mindcare Assistant
+**Tech:** Python · Streamlit · Hugging Face · LLMs · NLP  
+
+### 🛡️ [AI-Powered Incident Management System](https://github.com/harmehak0173/AI-Powered-Incident-Management-Assistant)
+**Tech:** Python · FastAPI · Streamlit · RAG · Vector Embeddings · Pydantic · NumPy
+
+### 🛡️ [Smart Research Agent](https://github.com/harmehak0173/smart-research-agent)
+**Tech:** Python · OpenAI GPT · LangChain · DuckDuckGo · Web Scraping · Pydantic
+
+### ☁️ [Nimbus Weather Assistant](https://github.com/harmehak0173/NimbusMCP)
+**Tech:** Python · httpx · OpenWeather API · OpenAI · Hugging Face · Ollama · MCP  
+
+### 🐜 [Swarm Intelligence in Autonomous Agents for Search & Rescue Operations](https://github.com/harmehak0173/Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations)
+**Tech:** Python · Pygame · ACO · Matplotlib  
+
+### 💬 [WhatsApp Chat Analyzer](https://github.com/harmehak0173/Whatsapp-Chat-Analysis)
+**Tech:** Python · pandas · wordcloud · Streamlit  
+
+### 🤚 [Hand Gesture Recognition System](https://github.com/harmehak0173/Hand-Recognition-System)
+**Tech:** Python · TensorFlow · Keras · NumPy · scikit-learn · Matplotlib  
+
+### 📊 [Customer Analysis Dashboard](https://github.com/harmehak0173/Customer-Analysis-Using-Tableau)
+**Tech:** Tableau · Power BI  
+
+---
+
+## 🧠 Technical Skills
+(*unchanged*)
+
+---
+
+## 🏆 Key Achievements (New)
+
+- 🧠 Built **production-grade agentic AI systems** with MCP and RAG pipelines  
+- ⚡ Reduced LLM hallucinations by **~30% using structured orchestration + evaluation pipelines**  
+- 📊 Improved model performance metrics by **80% through dataset engineering**  
+- 🧩 Designed **enterprise-ready AI workflows** integrating reasoning, fallback, and evaluation  
+
+---
+
+## 📚 Certifications
+
+- 🧠 **Google Cloud Certified – Generative AI Leader (2026–2029)** ⭐ *(NEW)*  
+- ☁️ **AWS Cloud Technical Essentials** - *Amazon Web Services (AWS), Sep 2025*  
+- 🌩️ **Migrating to the AWS Cloud** - *Amazon Web Services (AWS), Sep 2025*  
+- 🤖 **Fundamentals of AI Agents Using RAG and LangChain** - *IBM, Aug 2025*  
+- 🧠 **Machine Learning Specialization** - *University of Washington, Nov 2020*  
+- 🔍 **Building Conversational Experiences with Dialogflow** - *Google, Jun 2020*  
+
+---
+
+## 📄 Publications (New)
+
+- 📘 *Human Computer Interaction: Technologies and Challenges* — JETIR (2023)  
+- 📘 *Cyber Attack Trends & Visualization (Ukraine Case Study)* — Springer Conference (2022)
+
+---
+
+## 🌱 Current Focus
+
+- Developing **Mindcare Assistant** - integrating **LLMs**, **NLP**, and emotion detection for mental health awareness.  
+- Building scalable AI systems as an **AI / ML Engineer**.  
+- Designing modular software backends using **FastAPI**, **Flask**, and **Python**.  
+- Exploring **Agentic AI**, **LangChain**, and **MCP**.  
+- Researching **Human-Centered AI** and ethics in conversational systems.  
+- Continuous learning via **LLM fine-tuning**, **RAG**, and **algorithmic problem-solving**.
+
+---
+
+## 📈 GitHub Stats (New)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harmehak0173&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harmehak0173&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:harmehak0173@gmail.com"><img src="https://img.shields.io/badge/Email-harmehak0173%40gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/harmehak-singh-khangura"><img src="https://img.shields.io/badge/LinkedIn-Harmehak%20Singh%20Khangura-blue?style=flat&logo=linkedin"></a>
+  <a href="https://harmehak-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify"></a>
+</p>
+
+---
+
+<p align="center">⭐️ <i>"Code for humanity - where every algorithm should care."</i></p>
 ---
 
 ## 🤝 Let's Connect
