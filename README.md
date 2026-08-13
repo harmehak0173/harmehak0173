@@ -1,20 +1,20 @@
 <!--
-  GitHub Profile README — Harmehak Singh Khangura
+  GitHub Profile README - Harmehak Singh Khangura
   Repo: place this file in a repo named `harmehak0173` (github.com/harmehak0173/harmehak0173)
-  Accent color used throughout: #00C2CB (teal). Search/replace 00C2CB to re-theme everything at once.
+  Accent color: #00C2CB (teal). Find/replace 00C2CB to re-theme everything at once.
 -->
 
 <p align="center">
   <a href="https://harmehak-portfolio.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2CB&center=true&vCenter=true&width=780&height=45&lines=Founder%2C+Builder+and+AI+Engineer;Building+multi-tenant+AI+SaaS+for+higher+education;LLMs%2C+Agentic+Systems%2C+Applied+Machine+Learning;Code+for+humanity%2C+where+every+algorithm+cares" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2CB&center=true&vCenter=true&width=760&height=45&lines=Founder+%40+UniBuzz.ai;AI+and+Machine+Learning+Engineer;Building+AI+that+cares+%E2%9C%A8" alt="Typing intro" />
   </a>
 </p>
 
 <h1 align="center">Hi, I'm Harmehak Singh Khangura 👋</h1>
 
 <p align="center">
-  <b>Founder</b> @ <a href="https://unibuzz.ai">UniBuzz.ai</a> &nbsp;•&nbsp; AI Training & Evaluation @ Mercor &nbsp;•&nbsp; AI Developer @ Alignerr <br>
-  <sub>Master of Engineering, Electrical & Computer Engineering — University of Waterloo</sub> <br>
+  <b>Founder @ <a href="https://unibuzz.ai">UniBuzz.ai</a></b> &nbsp;|&nbsp; AI and Machine Learning Engineer <br>
+  <sub>Master of Engineering, Electrical &amp; Computer Engineering - University of Waterloo</sub> <br>
   📍 Waterloo, Ontario, Canada
 </p>
 
@@ -23,32 +23,15 @@
   <a href="https://harmehak-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C2CB?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:harmehak0173@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.credly.com/badges/ed7ed4eb-1978-4d4c-8f29-a62e8802c0c5"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"></a>
-  <img src="https://komarev.com/ghpvc/?username=harmehak0173&style=flat-square&color=00C2CB&label=Profile+Views" alt="Profile views">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a founder and AI engineer based in Waterloo, Canada, building intelligent systems where **Large Language Models, agentic architectures, and applied machine learning** meet real product delivery. Right now I'm the solo architect of a **multi-tenant AI SaaS engagement platform** for the higher-education market — owning it end to end from schema design and retrieval to evaluation and deployment.
+I'm a Master of Engineering graduate in Electrical and Computer Engineering from the University of Waterloo, and the founder of UniBuzz.ai. I build intelligent systems that bring together Large Language Models, Generative AI, Machine Learning, software engineering, and agentic architectures to solve real problems.
 
-My work sits at the intersection of shipping software and getting model behavior right: designing the system *and* the rubrics that keep it reliable. I care about engineering that starts with **why**, not just **how**.
-
-```python
-class Harmehak:
-    def __init__(self):
-        self.role      = "Founder & AI Engineer"
-        self.focus     = ["LLMs", "Agentic Systems", "Applied ML", "Multi-tenant SaaS"]
-        self.stack     = ["Python", "FastAPI", "PostgreSQL + pgvector", "RAG"]
-        self.building  = "UniBuzz.ai"
-        self.open_to   = "AI/ML & software engineering roles"
-```
-
-### 🌱 Currently
-- 🏗️ Building **[UniBuzz.ai](https://unibuzz.ai)** — a multi-tenant AI engagement platform for universities (FastAPI · PostgreSQL/pgvector · OpenAI embeddings · 12 integrated AI features)
-- 🧪 Designing evaluation rubrics & calibrating distributed contributor teams **@ Mercor**
-- 🤖 Authoring code solutions and evaluating model outputs **@ Alignerr**
-- 💬 Open to opportunities in Applied AI, ML, and software engineering
+My work spans LLM-powered applications, AI agents, and data-driven analytics pipelines, always with the goal of making technology more efficient, accessible, and human-centered. I care about engineering that starts with asking why, not just how.
 
 ---
 
@@ -79,8 +62,8 @@ class Harmehak:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FCC72C?style=flat-square&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FCC72C?style=flat-square&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/NLP-0096D6?style=flat-square">
   <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square">
@@ -110,7 +93,6 @@ class Harmehak:
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/FAISS-3B5998?style=flat-square">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/ETL%20Pipelines-4682B4?style=flat-square">
@@ -121,9 +103,7 @@ class Harmehak:
 **Business Intelligence & Visualization**
 
 <p>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white">
   <img src="https://img.shields.io/badge/SPSS-1F70C1?style=flat-square">
@@ -182,7 +162,7 @@ class Harmehak:
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/harmehak0173/Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmehak0173&repo=Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080&hide_border=true" alt="Swarm Intelligence Search & Rescue" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmehak0173&repo=Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080&hide_border=true" alt="Swarm Intelligence Search and Rescue" />
       </a>
     </td>
   </tr>
@@ -200,15 +180,14 @@ class Harmehak:
   </tr>
 </table>
 
-> 🔎 More on my [portfolio](https://harmehak-portfolio.netlify.app) — including the AI Image Variator (VAE + LangChain agent) and a robot-HRI study built in Webots.
+> 🔎 More on my [portfolio](https://harmehak-portfolio.netlify.app).
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harmehak0173&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmehak0173&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00C2CB&text_color=808080" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harmehak0173&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -219,28 +198,39 @@ class Harmehak:
 
 ## 📝 Publications
 
-- **Human Computer Interaction: Technologies and Challenges** — *JETIR*, Vol. 10, Issue 5 (2023)
-- **Aristocratic Trends of Cyber Attacks: Ukraine Defended Surface as a Case Study** — *ICDSC, Springer* (2022)
+- *"Human Computer Interaction: Technologies and Challenges"* - JETIR, 2023
+- *"Aristocratic Trends of Cyber Attacks: Ukraine Case Study"* - Springer ICDSC, 2022
+
+---
 
 ## 🎓 Education
 
-- **University of Waterloo** — M.Eng., Electrical & Computer Engineering *(Business Leadership Specialization)* · 2025
-- **Guru Nanak Dev Engineering College** — B.Tech., Computer Science & Engineering · 2023
+- **University of Waterloo, Canada** - Master of Engineering, Electrical & Computer Engineering *(2025)*
+- **GNE College Ludhiana, Punjab Technical University, India** - B.Tech, Computer Science & Engineering *(2023)*
 
-## 📚 Selected Certifications
+---
 
-- **Google Cloud — Generative AI Leader** · 2026
-- **AWS — Cloud Technical Essentials** · 2025
-- **IBM — Fundamentals of AI Agents Using RAG and LangChain** · 2025
+## 📚 Certifications
+
+- 🧠 **Google Cloud Certified - Generative AI Leader** - *Google Cloud, Mar 2026*
+- ☁️ **AWS Cloud Technical Essentials** - *Amazon Web Services (AWS), Sep 2025*
+- 🌩️ **Migrating to the AWS Cloud** - *Amazon Web Services (AWS), Sep 2025*
+- 🤖 **Fundamentals of AI Agents Using RAG and LangChain** - *IBM, Aug 2025*
+- 🧠 **Machine Learning Specialization** - *University of Washington, Nov 2020*
+- 🔍 **Building Conversational Experiences with Dialogflow** - *Google, Jun 2020*
 
 ---
 
 ## 🤝 Let's Connect
 
+I'm always open to good conversations and new opportunities. Pick whichever is easiest:
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/harmehak-singh-khangura/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://harmehak-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00C2CB?style=for-the-badge&logo=netlify&logoColor=white"></a>
-  <a href="mailto:harmehak0173@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harmehak-singh-khangura/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:harmehak0173@gmail.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://harmehak-portfolio.netlify.app"><img src="https://img.shields.io/badge/See%20my%20work-00C2CB?style=for-the-badge&logo=netlify&logoColor=white"></a>
 </p>
 
-<p align="center"><i>"Code for humanity — where every algorithm should care." ✨</i></p>
+---
+
+<p align="center">⭐️ <i>"Code for humanity - where every algorithm should care."</i></p>
