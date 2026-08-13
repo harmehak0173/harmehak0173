@@ -54,45 +54,107 @@ class Harmehak:
 
 ## 🛠️ Tech Stack
 
-**Languages & Backend**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql" alt="Languages & backend" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,fastapi,flask,pytorch,tensorflow,sklearn,opencv,postgres,docker,kubernetes,jenkins,git,linux,aws,azure,gcp" alt="Core tech stack" />
 </p>
 
-**Machine Learning & Deep Learning**
+**Programming & Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML frameworks" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square">
+  <img src="https://img.shields.io/badge/OOP-6DB33F?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=flat-square">
+  <img src="https://img.shields.io/badge/Systems%20Design-8B4513?style=flat-square">
 </p>
 
-**Cloud, Data & DevOps**
+**Machine Learning & AI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,linux" alt="Cloud & DevOps" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FCC72C?style=flat-square&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP-0096D6?style=flat-square">
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square">
+  <img src="https://img.shields.io/badge/LLMs-7B68EE?style=flat-square">
+  <img src="https://img.shields.io/badge/Multi--modal%20Models-FF1493?style=flat-square">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-1E90FF?style=flat-square">
+  <img src="https://img.shields.io/badge/Model%20Evaluation-708090?style=flat-square">
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6347?style=flat-square">
 </p>
 
-**AI / LLM Toolkit**
+**AI Tools & Frameworks**
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/RAG-00C2CB?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/RAG-EAB308?style=flat-square">
+  <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square">
+  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FCC72C?style=flat-square&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-708090?style=flat-square">
-  <img src="https://img.shields.io/badge/Model%20Evaluation-483D8B?style=flat-square">
+  <img src="https://img.shields.io/badge/Claude%20Code-D4A574?style=flat-square&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Copilot%20Studio-181717?style=flat-square&logo=githubcopilot&logoColor=white">
+  <img src="https://img.shields.io/badge/Windsurf-00C2D1?style=flat-square">
 </p>
 
-**Data & BI**
+**Data Engineering & Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/FAISS-3B5998?style=flat-square">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-4682B4?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Integration-2E8B57?style=flat-square">
+  <img src="https://img.shields.io/badge/Feature%20Engineering-DAA520?style=flat-square">
+</p>
+
+**Business Intelligence & Visualization**
 
 <p>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white">
+  <img src="https://img.shields.io/badge/SPSS-1F70C1?style=flat-square">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+</p>
+
+**Development & Deployment**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square">
+</p>
+
+**Soft Skills**
+
+<p>
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-483D8B?style=flat-square">
+  <img src="https://img.shields.io/badge/Creative%20Problem%20Solving-00BFFF?style=flat-square">
+  <img src="https://img.shields.io/badge/Collaboration%20%26%20Teamwork-4682B4?style=flat-square">
+  <img src="https://img.shields.io/badge/Communication-32CD32?style=flat-square">
+  <img src="https://img.shields.io/badge/Stakeholder%20Collaboration-20B2AA?style=flat-square">
+  <img src="https://img.shields.io/badge/Time%20Management-FF8C00?style=flat-square">
+  <img src="https://img.shields.io/badge/Business%20Acumen-FFD700?style=flat-square">
+  <img src="https://img.shields.io/badge/Customer%20Communication-00CED1?style=flat-square">
 </p>
 
 ---
