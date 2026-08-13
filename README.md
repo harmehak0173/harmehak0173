@@ -1,7 +1,7 @@
 <!--
   GitHub Profile README - Harmehak Singh Khangura
   Repo: place this file in a repo named `harmehak0173` (github.com/harmehak0173/harmehak0173)
-  Accent color: #00C2CB (teal). Find/replace 00C2CB to re-theme everything at once.
+  Accent color: #00C2CB (teal). Find/replace 00C2CB to re-theme.
 -->
 
 <p align="center">
@@ -25,21 +25,13 @@
   <a href="https://www.credly.com/badges/ed7ed4eb-1978-4d4c-8f29-a62e8802c0c5"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"></a>
 </p>
 
----
-
 ## 🚀 About Me
 
-I'm a Master of Engineering graduate in Electrical and Computer Engineering from the University of Waterloo, and the founder of UniBuzz.ai. I build intelligent systems that bring together Large Language Models, Generative AI, Machine Learning, software engineering, and agentic architectures to solve real problems.
+I'm an engineer who loves building products with LLMs and AI agents. I hold a Master of Engineering in Electrical and Computer Engineering from the University of Waterloo, and I'm the founder of UniBuzz.ai, where I turn large language models, generative AI, and agentic architectures into intelligent systems that people actually use.
 
-My work spans LLM-powered applications, AI agents, and data-driven analytics pipelines, always with the goal of making technology more efficient, accessible, and human-centered. I care about engineering that starts with asking why, not just how.
-
----
+I'm also fascinated by human psychology and what makes people tick, which shapes how I design products. Alongside the engineering, I bring solid marketing knowledge backed by Meta certifications and the people skills to work well with just about anyone. At the core of it, I believe great engineering starts with asking why, not just how.
 
 ## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,fastapi,flask,pytorch,tensorflow,sklearn,opencv,postgres,docker,kubernetes,jenkins,git,linux,aws,azure,gcp" alt="Core tech stack" />
-</p>
 
 **Programming & Backend**
 
@@ -137,78 +129,34 @@ My work spans LLM-powered applications, AI agents, and data-driven analytics pip
   <img src="https://img.shields.io/badge/Customer%20Communication-00CED1?style=flat-square">
 </p>
 
----
-
 ## 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/harmehak0173/AI-Powered-Incident-Management-Assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmehak0173&repo=AI-Powered-Incident-Management-Assistant&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080&hide_border=true" alt="Incident Management Assistant" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/harmehak0173/smart-research-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmehak0173&repo=smart-research-agent&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080&hide_border=true" alt="Smart Research Agent" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/harmehak0173/NimbusMCP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmehak0173&repo=NimbusMCP&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080&hide_border=true" alt="Nimbus MCP" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/harmehak0173/Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmehak0173&repo=Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080&hide_border=true" alt="Swarm Intelligence Search and Rescue" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/harmehak0173/Whatsapp-Chat-Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmehak0173&repo=Whatsapp-Chat-Analysis&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080&hide_border=true" alt="WhatsApp Chat Analyzer" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/harmehak0173/Hand-Recognition-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harmehak0173&repo=Hand-Recognition-System&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080&hide_border=true" alt="Hand Gesture Recognition" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Tech |
+| --- | --- | --- |
+| **[AI-Powered Incident Management](https://github.com/harmehak0173/AI-Powered-Incident-Management-Assistant)** | RAG based incident response with semantic search over past incidents, root cause analysis, and a chat interface. | Python, FastAPI, RAG |
+| **[Smart Research Agent](https://github.com/harmehak0173/smart-research-agent)** | Autonomous LLM agent that researches the web and compiles reports with citations. | Python, OpenAI, LangChain |
+| **[Nimbus MCP](https://github.com/harmehak0173/NimbusMCP)** | Weather assistant CLI with MCP server integration and multi model reasoning. | Python, MCP, OpenAI |
+| **[Swarm Intelligence for Search and Rescue](https://github.com/harmehak0173/Swarm-Intelligence-in-Autonomous-Agents-for-Search-and-Rescue-Operations)** | Ant Colony Optimization simulation for multi agent target discovery in obstacle filled maps. | Python, Pygame, ACO |
+| **[WhatsApp Chat Analyzer](https://github.com/harmehak0173/Whatsapp-Chat-Analysis)** | Chat analytics and NLP with an interactive Streamlit dashboard. | Python, pandas, Streamlit |
+| **[Hand Gesture Recognition](https://github.com/harmehak0173/Hand-Recognition-System)** | Real time hand gesture recognition using deep learning. | Python, TensorFlow, OpenCV |
 
 > 🔎 More on my [portfolio](https://harmehak-portfolio.netlify.app).
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harmehak0173&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=harmehak0173&hide_border=true&background=00000000&ring=00C2CB&fire=00C2CB&currStreakLabel=00C2CB&sideNums=808080&sideLabels=808080&dates=808080&stroke=808080&currStreakNum=808080" alt="GitHub streak" />
 </p>
-
----
 
 ## 📝 Publications
 
 - *"Human Computer Interaction: Technologies and Challenges"* - JETIR, 2023
 - *"Aristocratic Trends of Cyber Attacks: Ukraine Case Study"* - Springer ICDSC, 2022
 
----
-
 ## 🎓 Education
 
 - **University of Waterloo, Canada** - Master of Engineering, Electrical & Computer Engineering *(2025)*
 - **GNE College Ludhiana, Punjab Technical University, India** - B.Tech, Computer Science & Engineering *(2023)*
-
----
 
 ## 📚 Certifications
 
@@ -219,18 +167,12 @@ My work spans LLM-powered applications, AI agents, and data-driven analytics pip
 - 🧠 **Machine Learning Specialization** - *University of Washington, Nov 2020*
 - 🔍 **Building Conversational Experiences with Dialogflow** - *Google, Jun 2020*
 
----
-
 ## 🤝 Let's Connect
 
-I'm always open to good conversations and new opportunities. Pick whichever is easiest:
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/harmehak-singh-khangura/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:harmehak0173@gmail.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://harmehak-portfolio.netlify.app"><img src="https://img.shields.io/badge/See%20my%20work-00C2CB?style=for-the-badge&logo=netlify&logoColor=white"></a>
+  <a href="mailto:harmehak0173@gmail.com"><img src="https://img.shields.io/badge/Email-harmehak0173%40gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/harmehak-singh-khangura"><img src="https://img.shields.io/badge/LinkedIn-Harmehak%20Singh%20Khangura-blue?style=flat&logo=linkedin"></a>
+  <a href="https://harmehak-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify"></a>
 </p>
-
----
 
 <p align="center">⭐️ <i>"Code for humanity - where every algorithm should care."</i></p>
