@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/harmehak-singh-khangura/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://harmehak-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C2CB?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:harmehak0173@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.credly.com/badges/ed7ed4eb-1978-4d4c-8f29-a62e8802c0c5"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"></a>
+  <a href="https://www.credly.com/users/harmehak-singh-khangura.b93ead57/badges/credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"></a>
 </p>
 
 ## 🚀 About Me
