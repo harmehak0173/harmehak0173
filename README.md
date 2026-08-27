@@ -145,7 +145,7 @@ I'm also fascinated by human psychology and what makes people tick, which shapes
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://harmehak-readme-stats.vercel.app/api?username=harmehak0173&show=prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080" alt="GitHub stats including merged pull requests" />
+  <img src="https://harmehak-readme-stats.vercel.app/api?username=harmehak0173&show=prs_merged&hide=stars,commits,prs,issues,contribs&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=00C2CB&text_color=808080" alt="GitHub stats including merged pull requests" />
 </p>
 
 <p align="center">
