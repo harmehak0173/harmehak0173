@@ -149,7 +149,7 @@ I'm also fascinated by human psychology and what makes people tick, which shapes
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harmehak0173&hide_border=true&background=00000000&ring=00C2CB&fire=00C2CB&currStreakLabel=00C2CB&sideNums=808080&sideLabels=808080&dates=808080&stroke=808080&currStreakNum=808080" alt="GitHub streak" />
+  <img src="https://harmehak-streak-stats.vercel.app?user=harmehak0173&hide_border=true&background=00000000&ring=00C2CB&fire=00C2CB&currStreakLabel=00C2CB&sideNums=808080&sideLabels=808080&dates=808080&stroke=808080&currStreakNum=808080" alt="GitHub streak" />
 </p>
 
 ## 📝 Publications
