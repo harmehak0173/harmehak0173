@@ -180,5 +180,3 @@ I'm also fascinated by human psychology and what makes people tick, which shapes
 </p>
 
 <p align="center">⭐️ <i>"Code for humanity - where every algorithm should care."</i></p>
-
-<!-- profile update 2026-08-29 -->
