@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Harmehak Singh Khangura 👋</h1>
+<h1 align="center">Hi, I'm Harmehak Khangura 👋</h1>
 
 <p align="center">
   <b>Founder @ <a href="https://unibuzz.ai">UniBuzz.ai</a></b> &nbsp;|&nbsp; AI and Machine Learning Engineer <br>
